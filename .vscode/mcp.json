@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "reliqua": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/index.js"],
+      "env": {
+        "FOUNDRY_IQ_ENDPOINT": "${env:FOUNDRY_IQ_ENDPOINT}",
+        "FOUNDRY_IQ_API_KEY": "${env:FOUNDRY_IQ_API_KEY}",
+        "FOUNDRY_KB_ID": "${env:FOUNDRY_KB_ID}"
+      }
+    }
+  }
+}
