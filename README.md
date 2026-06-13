@@ -5,7 +5,7 @@
 ### *Your code has a soul.*
 
 **A GitHub Copilot MCP server that transforms any codebase into living mythology**
-*Grounded by Microsoft Foundry IQ · Narrated by GitHub Copilot · Built in 24 hours*
+*Grounded by Microsoft Foundry IQ · Narrated by GitHub Copilot · 
 
 ---
 
