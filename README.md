@@ -296,7 +296,7 @@ const response = await fetch(
 
 ## 🤖 How GitHub Copilot Was Used to Build This
 
-GitHub Copilot was the **primary development tool** throughout the entire 24-hour build:
+GitHub Copilot and VS Code were the **primary development tools** throughout this phase
 
 - **Copilot Agent** scaffolded the complete TypeScript MCP server from a single English prompt
 - **Copilot** wrote `scanner.ts` — detecting folders, files, and git history from the workspace
@@ -320,7 +320,6 @@ See [COPILOT_USAGE.md](./COPILOT_USAGE.md) for the complete development diary.
 | **Creative Application** | World-first tool transforming codebases into mythology. Novel concept, zero learning curve, immediate wow factor. |
 
 **Track:** Creative Apps — Microsoft Agents League Hackathon 2026
-**Built:** June 13-14, 2026 — 24 hours
 
 ---
 
