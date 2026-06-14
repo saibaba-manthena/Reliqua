@@ -296,7 +296,7 @@ const response = await fetch(
 
 ## 🤖 How GitHub Copilot Was Used to Build This
 
-GitHub Copilot and VS Code were the **primary development tools** throughout this phase
+GitHub Copilot was the **primary development tool** throughout this phase
 
 - **Copilot Agent** scaffolded the complete TypeScript MCP server from a single English prompt
 - **Copilot** wrote `scanner.ts` — detecting folders, files, and git history from the workspace
